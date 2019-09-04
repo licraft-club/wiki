@@ -1,2 +1,1 @@
-* [En](/)
-* [chinese](/zh-cn/)
+* [Github](https://github.com/licraft-club/wiki)
